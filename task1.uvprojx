@@ -403,6 +403,11 @@
               <FileType>1</FileType>
               <FilePath>.\Scr\i2c.c</FilePath>
             </File>
+            <File>
+              <FileName>tim3.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Scr\tim3.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -422,6 +427,11 @@
               <FileName>i2c.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Inc\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>tim3.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Inc\tim3.h</FilePath>
             </File>
           </Files>
         </Group>
